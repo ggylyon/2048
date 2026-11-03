@@ -28,7 +28,6 @@ The game is inspired by the original 2048 puzzle game.
 ## ✨ Features
 
 - **Classic 2048 gameplay** — play on a 4×4 grid.
-- **Smooth tile merging** — combine matching numbers to create larger tiles.
 - **Four-direction movement** — use arrow keys to move tiles up, down, left, or right.
 - **Dynamic scoring** — earn points by merging tiles.
 - **Random tile generation** — new tiles appear after successful moves.
